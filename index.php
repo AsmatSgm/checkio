@@ -78,7 +78,7 @@
             <div class="float-right d-none d-sm-inline">
                 Project LEARN
             </div>
-            <strong>Create 2020 <a href="#" style="color:black">Checkin-Checkout</a>.</strong> By OopzMgm.
+            <strong>Create 2020 <a href="#" style="color:black">Checkin-Checkout</a>.</strong> By AsmatSgm.
         </footer>
     </div>
     <script src="plugins/jquery/jquery.min.js"></script>
